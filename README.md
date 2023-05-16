@@ -7,11 +7,11 @@
     <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://luccasfaro.github.io/3-column-preview/" target="_blank">View Site</a>
+    <a href="https://luccasfaro.github.io/3-column-preview-card-component/" target="_blank">View Site</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/luccasfaro/3-column-preview/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/luccasfaro/3-column-preview-card-component/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/luccasfaro/3-column-preview/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/luccasfaro/3-column-preview-card-component/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
