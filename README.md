@@ -52,7 +52,7 @@
 - |||
   | :----- | :----- |
   | Solution URL: | [Responsive three column card using flex-box properties (HTML/CSS)](https://www.frontendmentor.io/solutions/responsive-three-column-card-using-flexbox-properties-htmlcss-DCb78h66e9) |
-  | Live Site URL: | [https://luccasfaro.github.io/3-column-preview/](https://luccasfaro.github.io/3-column-preview/) |
+  | Live Site URL: | [https://luccasfaro.github.io/3-column-preview-card-component/](https://luccasfaro.github.io/3-column-preview-card-component/) |
   |||
 
 
