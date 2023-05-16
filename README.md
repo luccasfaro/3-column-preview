@@ -41,7 +41,7 @@
 ## **Preview**
 
 <div align='center'>
-<img src='images/' alt='3-Column Preview Card Componentsolution preview image'>
+<img src='./images/previewsite-3-column-preview.png' alt='3-Column Preview Card Componentsolution preview image'>
 </div>
 
 
@@ -51,8 +51,8 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [3 Column Card Component 🎯 [ SEMANTIC MARKUP - BEM - VANILLA CSS3 ]](https://www.frontendmentor.io/solutions/3-column-card-component-semantic-markup-bem-vanilla-css3-2xfRorDMiR) |
-  | Live Site URL: | [https://0xabdulkhalid.github.io/3-column-preview-card-component/](https://0xabdulkhalid.github.io/3-column-preview-card-component/) |
+  | Solution URL: | [Responsive three column card using flex-box properties (HTML/CSS)](https://www.frontendmentor.io/solutions/responsive-three-column-card-using-flexbox-properties-htmlcss-DCb78h66e9) |
+  | Live Site URL: | [https://luccasfaro.github.io/3-column-preview/](https://luccasfaro.github.io/3-column-preview/) |
   |||
 
 
@@ -76,7 +76,7 @@
 
 ## **Tools Used**
 
-![Google](https://img.shields.io/badge/google-DA4437?style=for-the-badge&logo=google&logoColor=white) &nbsp;  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp; 
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
 
 
 <br>
@@ -84,6 +84,7 @@
 ## **Acknowledgment**
 
 * Challenge was provided by [Frontend Mentor](https://www.frontendmentor.io)
+* Readme Template based on [0xabdulkhalid](https://github.com/0xabdulkhalid/3-column-preview-card-component/blob/main/README.md)
 
 <br>
 
@@ -91,15 +92,15 @@
 
 <div align=center>
 
-  <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<!--   <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp; -->
 
-  <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
+  <a href="https://www.frontendmentor.io/profile/luccasfaro" target="_blank">
     <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor Profile">
   </a> &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.github.com/0xabdulkhalid/" target="_blank">
+  <a href="https://www.github.com/luccasfaro/" target="_blank">
     <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Github Profile">
   </a>
 
